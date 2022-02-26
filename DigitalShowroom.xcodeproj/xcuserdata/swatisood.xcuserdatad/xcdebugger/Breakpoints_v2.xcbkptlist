@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "6A0DA6CF-CD27-49B0-A5A8-51FA01D3A234"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D30D80D2-6B28-4725-BA6E-D0A9241CE942"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DigitalShowroom/MockNetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "searchProducts(searchTerm:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "47E500EC-6608-4590-8F6D-99867A49695E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DigitalShowroomTests/ProductDetailsViewControllerTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "testElementsUpdate()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "47E500EC-6608-4590-8F6D-99867A49695E - 1810f1d3277ef75a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Bool&gt;) -&gt; () in DigitalShowroomTests.ProductDetailsViewControllerTests.testElementsUpdate() throws -&gt; ()"
+                  moduleName = "DigitalShowroomTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/swatisood/Desktop/DigitalShowroom/DigitalShowroomTests/ProductDetailsViewControllerTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "416">
+               </Location>
+               <Location
+                  uuid = "47E500EC-6608-4590-8F6D-99867A49695E - 1810f1d3277ef75a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Bool&gt;) -&gt; () in DigitalShowroomTests.ProductDetailsViewControllerTests.testElementsUpdate() throws -&gt; ()"
+                  moduleName = "DigitalShowroomTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/swatisood/Desktop/DigitalShowroom/DigitalShowroomTests/ProductDetailsViewControllerTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "472">
+               </Location>
+               <Location
+                  uuid = "47E500EC-6608-4590-8F6D-99867A49695E - 1810f1d3277ef71c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Bool&gt;) -&gt; () in DigitalShowroomTests.ProductDetailsViewControllerTests.testElementsUpdate() throws -&gt; ()"
+                  moduleName = "DigitalShowroomTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/swatisood/Desktop/DigitalShowroom/DigitalShowroomTests/ProductDetailsViewControllerTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "456">
+               </Location>
+               <Location
+                  uuid = "47E500EC-6608-4590-8F6D-99867A49695E - 1810f1d3277ef73d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Bool&gt;) -&gt; () in DigitalShowroomTests.ProductDetailsViewControllerTests.testElementsUpdate() throws -&gt; ()"
+                  moduleName = "DigitalShowroomTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/swatisood/Desktop/DigitalShowroom/DigitalShowroomTests/ProductDetailsViewControllerTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "352">
+               </Location>
+               <Location
+                  uuid = "47E500EC-6608-4590-8F6D-99867A49695E - 1810f1d3277ef77b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Bool&gt;) -&gt; () in DigitalShowroomTests.ProductDetailsViewControllerTests.testElementsUpdate() throws -&gt; ()"
+                  moduleName = "DigitalShowroomTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/swatisood/Desktop/DigitalShowroom/DigitalShowroomTests/ProductDetailsViewControllerTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "488">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "006396E7-25E3-4FD6-9AE2-234A7B20D80B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DigitalShowroom/ProductListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "init(viewModel:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
